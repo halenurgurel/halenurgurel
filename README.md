@@ -67,10 +67,9 @@
 
 ## 📫 Let’s Connect  
 
-- 🌐 [GitHub](https://github.com/halenurgurel)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/halenur-gürel/) *(update link if needed)*  
-- ✉️ *(add your email if you’d like)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halenur-gürel/)  
+[![Email](https://img.shields.io/badge/Email-halenur.gurel%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halenur.gurel@hotmail.com)    
 
 ---
 
-⭐️ *Thanks for visiting my profile! Stay tuned for new projects as I grow as a developer.*
+✨ *“Marketing tells the story. Coding builds the experience.”*
