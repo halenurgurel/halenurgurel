@@ -1,74 +1,77 @@
 # Hi there, I'm Hale 👋 
 
-🌟 Social Media Specialist | 🚀 Aspiring Full-Stack Web Developer  
+**💡 Frontend Developer | Former Social Media Specialist**
+Bridging the gap between brand strategy and modern web development.
 
 ---
 
 ## 🌱 About Me  
 
-- 🎓 Completed a **Back-End Web Development course** with **C#**  
-- 💻 Experienced with **ASP.NET Core**, **Entity Framework**, and **MVC**  
-- 🎨 Currently improving **HTML & CSS** skills for front-end development  
-- 📊 Professional background in **Social Media Marketing**, **CRM**, and **Brand Communication**  
-- 🔍 Passionate about blending **digital marketing expertise** with **modern web technologies**  
+I leverage my background in **Social Media Marketing, CRM, and Brand Management** to build user-centric web applications. My focus is on creating pixel-perfect, high-performance interfaces that don't just look good, but drive business value.
+
+My experience with C# and ASP.NET Core allows me to understand the full application lifecycle, making me a highly effective collaborator for Back-end teams.
 
 ---
 
-## 🛠️ Languages & Technologies  
-
-### 💻 Programming & Markup  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### ⚙️ Frameworks & Tools  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=nuget&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
-### 📊 Data & Analytics  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-
-### 📢 Digital Marketing & Communication  
-![Social Media](https://img.shields.io/badge/Social%20Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)  
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![CRM](https://img.shields.io/badge/CRM-FF6F00?style=for-the-badge&logo=zoho&logoColor=white)  
-![Brand Strategy](https://img.shields.io/badge/Brand%20Strategy-4CAF50?style=for-the-badge&logo=adobecreativecloud&logoColor=white)  
+### 🎯 Goals
+- 🚧 Build projects combining **marketing insights** with **web development**
+- 📚 Keep learning **React, and front-end frameworks** next
+- 🤝 Collaborate on open-source projects & contribute to real-world applications
+- 💡 Share my transition journey: _Social Media ➝ Software Development_
 
 ---
 
-## 📊 GitHub Stats  
+### 💻 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halenurgurel&show_icons=true&theme=radical" alt="halenurgurel stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halenurgurel&layout=compact&theme=radical" alt="halenurgurel top languages" height="165"/>
+#### **Front-End Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=halenurgurel&theme=radical" alt="halenurgurel streak stats"/>
+#### **Back-End Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
+
+#### **Design & Workflow**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Goals  
-
-- 🚧 Build projects combining **marketing insights** with **web development**  
-- 📚 Keep learning **JavaScript, React, and front-end frameworks** next  
-- 🤝 Collaborate on open-source projects & contribute to real-world applications  
-- 💡 Share my transition journey: *Social Media ➝ Software Development*  
+### ⚡ Technical Highlights (JS Journey)
+* **Figma-to-Code Mastery:** Expert at translating complex Figma designs into **Pixel-Perfect** HTML/CSS code by accurately implementing layout specifications (margins, padding, typography, and color palettes).
+* **Asynchronous JS:** Proficient in handling data fetching using **Promises** and **Axios**.
+* **Modern Tooling:** Developing with **Vite** for optimized build processes and hot module replacement.
+* **UI Enhancement:** Experienced in integrating specialized libraries like **izitoast**, **simplelightbox**, and **basiclightbox** to improve user interaction.
+* **Full-Stack Awareness:** Previous experience with **ASP.NET Core** and **Entity Framework** allows me to collaborate effectively with Back-end teams.
 
 ---
 
-## 📫 Let’s Connect  
+### 📂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halenur-gürel/)  
-[![Email](https://img.shields.io/badge/Email-halenur.gurel%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:halenur.gurel@hotmail.com)    
+* **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
+* **[Influencer Campaign API](https://github.com/halenurgurel/InfluencerCampaignAPI)** – A Back-end API built with **C#, ASP.NET Core**, and **Entity Framework** to manage marketing campaigns.
+* **Vite Vanilla Apps** – Asynchronous JS applications using **Axios**, **Promises**, and UI libraries (izitoast, simplelightbox) based on **Figma** designs.
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:halenur.gurel@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-halenur.gurel@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKED_IN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
