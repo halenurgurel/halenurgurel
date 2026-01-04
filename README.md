@@ -58,7 +58,6 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 ### 📂 Featured Projects
 
 * **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
-* **[Influencer Campaign API](https://github.com/halenurgurel/InfluencerCampaignAPI)** – A Back-end API built with **C#, ASP.NET Core**, and **Entity Framework** to manage marketing campaigns.
 * **[Pixabay Search Engine](https://github.com/halenurgurel/pixabay-search-engine)** – Asynchronous JS applications using **Axios**, **Promises**, and UI libraries (izitoast, simplelightbox) based on **Figma** designs.
 
 ---
