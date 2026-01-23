@@ -44,8 +44,8 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,vercel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="trello" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="slack" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="trello" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="slack" />
   </a>
 </p>
 
