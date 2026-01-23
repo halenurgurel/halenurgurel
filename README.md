@@ -9,7 +9,9 @@ Bridging the gap between brand strategy and modern web development.
 
 I leverage my background in **Social Media Marketing, CRM, and Brand Management** to build user-centric web applications. My focus is on creating pixel-perfect, high-performance interfaces that don't just look good, but drive business value.
 
-My experience with C# and ASP.NET Core allows me to understand the full application lifecycle, making me a highly effective collaborator for Back-end teams.
+Currently, I am deeply focused on modern **Frontend Development**, actively building dynamic and scalable projects with **React** and **TypeScript**. I am committed to writing clean, maintainable code and continuously expanding my toolkit within the JavaScript ecosystem.
+
+I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Trello)** and modern communication tools like **Slack** to ensure project transparency and efficiency.
 
 ---
 
@@ -26,21 +28,21 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=light&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
   </a>
 </p>
 
 #### **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </p>
 
-#### **Design & Workflow**
+#### **Development & Workflow**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,jira,trello,slack,vercel" />
   </a>
 </p>
 
