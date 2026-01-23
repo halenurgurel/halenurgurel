@@ -20,13 +20,15 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 - 💡 Share my transition journey: _Social Media ➝ Software Development_
 
 ---
+📚 **Learning Journey:** Currently mastering React and building type-safe components with TypeScript.
+---
 
 ### 💻 Tech Stack & Tools
 
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
   </a>
 </p>
 
