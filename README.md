@@ -26,7 +26,7 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite" />
   </a>
 </p>
 
@@ -51,6 +51,7 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 * **Asynchronous JS:** Proficient in handling data fetching using **Promises** and **Axios**.
 * **Modern Tooling:** Developing with **Vite** for optimized build processes and hot module replacement.
 * **UI Enhancement:** Experienced in integrating specialized libraries like **izitoast**, **simplelightbox**, and **basiclightbox** to improve user interaction.
+* **Type-Safe UI Development:** Building scalable interfaces using **TypeScript** for robust code and **Tailwind CSS** for rapid, utility-first styling.
 * **Full-Stack Awareness:** Previous experience with **ASP.NET Core** and **Entity Framework** allows me to collaborate effectively with Back-end teams.
 
 ---
@@ -67,7 +68,7 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
   <a href="mailto:halenur.gurel@hotmail.com">
     <img src="https://img.shields.io/badge/Email-halenur.gurel@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKED_IN_URL">
+  <a href="https://linkedin.com/in/halenurgurel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
