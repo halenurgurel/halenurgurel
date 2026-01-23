@@ -26,7 +26,7 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=light&perline=4" />
   </a>
 </p>
 
