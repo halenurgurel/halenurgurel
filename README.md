@@ -26,21 +26,21 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=light" />
   </a>
 </p>
 
 #### **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=light" />
   </a>
 </p>
 
 #### **Design & Workflow**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github&theme=light" />
   </a>
 </p>
 
