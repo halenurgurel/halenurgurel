@@ -15,12 +15,10 @@ My experience with C# and ASP.NET Core allows me to understand the full applicat
 
 ### 🎯 Goals
 - 🚧 Build projects combining **marketing insights** with **web development**
-- 📚 Keep learning **React, and front-end frameworks** next
+- 📚 Currently mastering **React** and building type-safe components with **TypeScript.**
 - 🤝 Collaborate on open-source projects & contribute to real-world applications
 - 💡 Share my transition journey: _Social Media ➝ Software Development_
 
----
-📚 **Learning Journey:** Currently mastering React and building type-safe components with TypeScript.
 ---
 
 ### 💻 Tech Stack & Tools
