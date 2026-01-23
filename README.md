@@ -42,7 +42,10 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 #### **Development & Workflow**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,jira,trello,slack,vercel" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,vercel" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   </a>
 </p>
 
