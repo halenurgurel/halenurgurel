@@ -28,7 +28,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 
 #### **Development & Workflow**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,git,github,vercel,notion" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="48" height="48" alt="jira" />
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48" height="48" alt="trello" />
   <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="48" height="48" alt="slack" />
