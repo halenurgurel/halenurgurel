@@ -17,7 +17,8 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 
 ### 🎯 Goals
 - 🚧 Build projects combining **marketing insights** with **web development**
-- 📚 Currently mastering **React** and building type-safe components with **TypeScript.**
+- 📚 Currently mastering **React** and building type-safe components with **TypeScript**
+- 🌿 Expanding into back-end development with **Node.js** and **MongoDB**
 - 🤝 Collaborate on open-source projects & contribute to real-world applications
 - 💡 Share my transition journey: _Social Media ➝ Software Development_
 
@@ -35,7 +36,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 #### **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mongodb" />
   </a>
 </p>
 
