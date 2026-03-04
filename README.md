@@ -28,7 +28,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 #### **Front-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui,vite" />
   </a>
 </p>
 
