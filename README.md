@@ -35,7 +35,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 #### **Back-End Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
   </a>
 </p>
 
