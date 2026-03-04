@@ -60,9 +60,10 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 ---
 
 ### 📂 Featured Projects
-
 * **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
 * **[Pixabay Search Engine](https://github.com/halenurgurel/pixabay-search-engine)** – Asynchronous JS applications using **Axios**, **Promises**, and UI libraries (izitoast, simplelightbox) based on **Figma** designs.
+* **[Cinemania](https://github.com/january-javaScript-project/cinemania)** – A collaborative JavaScript group project — a movie discovery app built with **Vanilla JS** and **Vite**, featuring async data fetching, responsive design, and team-based Git workflow. [🔗 Live Demo](https://january-javascript-project.github.io/cinemania/)
+* **[Task Planner](https://github.com/halenurgurel/task-planner)** – A full-featured task management app built with **React**, **Redux Toolkit**, and **Tailwind CSS**. Includes full CRUD via MockAPI, category system, due dates, persistent state with Redux Persist, and form validation using Formik & Yup. [🔗 Live Demo](https://hales-task-planner.vercel.app/)
 
 ---
 
