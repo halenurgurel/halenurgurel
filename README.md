@@ -93,6 +93,13 @@ I thrive in collaborative environments, utilizing **Agile methodologies** and **
 * **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
 
 
+## 📈 GitHub Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=halenurgurel&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
 ## 📫 Connect with me
 <p align="left">
   <a href="mailto:halenur.gurel@hotmail.com">
