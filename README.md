@@ -84,6 +84,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" height="40" />
 </div>
+
 ---
 
 ### ⚡ Technical Highlights (JS Journey)
