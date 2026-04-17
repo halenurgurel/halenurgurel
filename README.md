@@ -74,13 +74,14 @@ I thrive in collaborative environments, utilizing **Agile methodologies** and **
 </div>
 
 
-## ⚡ Technical Highlights (JS Journey)
-* **Figma-to-Code Mastery:** Expert at translating complex Figma designs into **Pixel-Perfect** HTML/CSS code by accurately implementing layout specifications (margins, padding, typography, and color palettes).
-* **Asynchronous JS:** Proficient in handling data fetching using **Promises** and **Axios**.
-* **Modern Tooling:** Developing with **Vite** for optimized build processes and hot module replacement.
-* **UI Enhancement:** Experienced in integrating specialized libraries like **izitoast**, **simplelightbox**, and **basiclightbox** to improve user interaction.
-* **Type-Safe UI Development:** Building scalable interfaces using **TypeScript** for robust code and **Tailwind CSS** for rapid, utility-first styling.
-* **Full-Stack Awareness:** Previous experience with **ASP.NET Core** and **Entity Framework** allows me to collaborate effectively with Back-end teams.
+## ⚡ Technical Highlights
+
+* **Fullstack Development:** Built end-to-end applications using **Node.js**, **Express**, and **MongoDB** on the backend, paired with **React** and **Redux Toolkit** on the frontend — including user authentication with JWT and RESTful API integration.
+* **State Management:** Proficient in managing complex application state with **Redux Toolkit** and **Redux Persist** for session continuity across page reloads.
+* **Authentication & Cloud Services:** Implemented secure user flows using both **JWT-based auth** (Slim Moms, Money Guard) and **Firebase Authentication with Firestore** (CinePink).
+* **Form Management:** Experienced with **Formik + Yup** for form validation; currently transitioning to **React Hook Form + Zod** for more performant and type-safe form handling.
+* **Figma-to-Code:** Translating complex Figma designs into pixel-perfect, fully responsive interfaces with precise implementation of layout, typography, and color systems.
+* **Team Lead & Agile Experience:** Served as **Team Lead and Scrum Master** across multiple bootcamp projects, managing sprint planning, task distribution via Jira, and cross-functional team coordination.
 
 
 ## 📂 Featured Projects
