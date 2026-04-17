@@ -27,7 +27,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 ## 💻 Tech Stack & Tools
 
 #### **Front-End Development**
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
@@ -38,19 +38,19 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="materialui" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="vite" />
-</p>
+</div>
 
 #### **Back-End Development**
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="csharp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="dotnet" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
-</p>
+</div>
 
 #### **Development & Workflow**
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="visualstudio" />
@@ -61,7 +61,7 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="slack" />
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="48" height="48" alt="trello" />
-</p>
+</div>
 ---
 
 ### ⚡ Technical Highlights (JS Journey)
