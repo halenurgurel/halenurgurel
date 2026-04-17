@@ -61,10 +61,13 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 ---
 
 ### 📂 Featured Projects
-* **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
-* **[Pixabay Search Engine](https://github.com/halenurgurel/pixabay-search-engine)** – Asynchronous JS applications using **Axios**, **Promises**, and UI libraries (izitoast, simplelightbox) based on **Figma** designs.
-* **[Cinemania](https://github.com/january-javaScript-project/cinemania)** – A collaborative JavaScript group project — a movie discovery app built with **Vanilla JS** and **Vite**, featuring async data fetching, responsive design, and team-based Git workflow. [🔗 Live Demo](https://january-javascript-project.github.io/cinemania/)
+* **[Slim Moms](https://github.com/halenurgurel/slim-moms)** – A fullstack collaborative team project — a calorie tracking application built with **React**, **Redux Toolkit**, **Node.js**, **Express**, and **MongoDB**. Features user authentication, daily calorie calculation, food diary management, and a product database search. [🔗 Live Demo](https://goit-slim-moms.vercel.app/)
+* **[Money Guard](https://github.com/halenurgurel/money-guard)** – A collaborative React team project — a personal finance tracker built with **React 19**, **Redux Toolkit**, and **Vite**. Features user authentication, income/expense management, category-based statistics with Chart.js, and live exchange rates via Monobank API. [🔗 Live Demo](https://goit-react-money-guard.vercel.app/)
+* **[CinePink](https://github.com/halenurgurel/cinepink)** – A solo project — a modern movie discovery app built with **React 19**, **Tailwind CSS v4**, and **Firebase**. Features real-time movie search via TMDB API, cast & crew pages, Swiper-based carousels, and a personal favorites list with full user authentication. [🔗 Live Demo](https://cinepink.vercel.app/)
 * **[Task Planner](https://github.com/halenurgurel/task-planner)** – A full-featured task management app built with **React**, **Redux Toolkit**, and **Tailwind CSS**. Includes full CRUD via MockAPI, category system, due dates, persistent state with Redux Persist, and form validation using Formik & Yup. [🔗 Live Demo](https://hales-task-planner.vercel.app/)
+* **[Cinemania](https://github.com/january-javaScript-project/cinemania)** – A collaborative JavaScript group project — a movie discovery app built with **Vanilla JS** and **Vite**, featuring async data fetching, responsive design, and team-based Git workflow. [🔗 Live Demo](https://january-javascript-project.github.io/cinemania/)
+* **[Pixabay Search Engine](https://github.com/halenurgurel/pixabay-search-engine)** – Asynchronous JS applications using **Axios**, **Promises**, and UI libraries (izitoast, simplelightbox) based on **Figma** designs.
+* **[Green Harvest](https://github.com/halenurgurel/code_club_green_harvest)** – A collaborative group project where I translated a detailed [Figma Template](https://www.figma.com/file/ObvvH4JjCuw8gBzYmiLIII/GreenHarvest) into a fully responsive web page using semantic HTML and advanced CSS techniques.
 
 ---
 
