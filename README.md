@@ -23,14 +23,6 @@ I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Tr
 
 ## 💻 Tech Stack & Tools
 
-O zaman liste netleşti! İşte son hali:
-Front-End: HTML, CSS, JS, TS, React, Redux, Tailwind, Material UI, Vite, Next.js
-Back-End: Node.js, Express, MongoDB
-Cloud & Services: Firebase
-Development & Workflow: Figma, VS Code, Git, Vercel, Jira
-Devicons'da Next.js ikonu mevcut. Güncellenmiş Tech Stack kodunu yazıyorum:
-html### 💻 Tech Stack & Tools
-
 #### **Front-End Development**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
