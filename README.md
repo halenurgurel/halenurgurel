@@ -1,6 +1,6 @@
 # Hi there, I'm Hale 👋 
 
-**💡 Frontend Developer | Former Social Media Specialist**
+**💡 Fullstack Developer | Former Social Media Specialist**
 Bridging the gap between brand strategy and modern web development.
 
 
@@ -14,11 +14,10 @@ I thrive in collaborative environments, utilizing **Agile methodologies** and **
 
 
 ## 🎯 Goals
-- 🚧 Build projects combining **marketing insights** with **web development**
-- 📚 Currently mastering **React** and building type-safe components with **TypeScript**
-- 🌿 Expanding into back-end development with **Node.js** and **MongoDB**
-- 🤝 Collaborate on open-source projects & contribute to real-world applications
-- 💡 Share my transition journey: _Social Media ➝ Software Development_
+- 🎨 Building interfaces with strong **UX intuition** by combining **marketing insights** with **web development**
+- 🐳 Currently learning **Docker** for containerization and scalable deployment workflows
+- 📱 Next milestone: **Flutter** for cross-platform mobile development
+- 🚀 Continuously building and shipping real-world projects that solve genuine problems
 
 
 ## 💻 Tech Stack & Tools
