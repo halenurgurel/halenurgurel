@@ -8,9 +8,9 @@ Bridging the gap between brand strategy and modern web development.
 
 I leverage my background in **Social Media Marketing, CRM, and Brand Management** to build user-centric web applications. My focus is on creating pixel-perfect, high-performance interfaces that don't just look good, but drive business value.
 
-Currently, I am deeply focused on modern **Frontend Development**, actively building dynamic and scalable projects with **React** and **TypeScript**. I am committed to writing clean, maintainable code and continuously expanding my toolkit within the JavaScript ecosystem.
+I am a **Fullstack Developer** with a strong focus on **Frontend Development**, building dynamic and scalable applications with **React**, **TypeScript**, and **Node.js**. I am committed to writing clean, maintainable code and continuously deepening my expertise within the JavaScript ecosystem.
 
-I thrive in collaborative environments, utilizing **Agile methodologies (Jira/Trello)** and modern communication tools like **Slack** to ensure project transparency and efficiency.
+I thrive in collaborative environments, utilizing **Agile methodologies** and **Jira** to ensure project transparency and efficiency.
 
 
 ## 🎯 Goals
